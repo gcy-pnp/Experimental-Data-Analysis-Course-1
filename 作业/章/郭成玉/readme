@@ -1,0 +1,3 @@
+1.通过newtree.c进行模拟，生成tree.root文件
+2.通过readtree.c读取数据，对td-tu(logqu/qd)微分，并拟合刻度。对光子飞行时间进行绝对刻度。
+3.将2中拟合的峰位写入savetree.c，并运行，将计算出的tx、qx、ntof、ce和之前的数据一起写入tree2，同时存入一些histogram。
